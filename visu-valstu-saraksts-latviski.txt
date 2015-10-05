@@ -1,0 +1,211 @@
+# Eiropas Savienības dalībvalstis:
+
+Apvienotā Karaliste
+Austrija
+Beļģija
+Bulgārija
+Čehija
+Dānija
+Francija
+Grieķija
+Horvātija
+Igaunija
+Īrija
+Itālija
+Kipra
+Latvija
+Lietuva
+Luksemburga
+Malta
+Nīderlande
+Polija
+Portugāle
+Rumānija
+Slovākija
+Slovēnija
+Somija
+Spānija
+Ungārija
+Vācija
+Zviedrija
+
+# Eiropas Ekonomikas zonas dalībvalstis:
+
+Islande
+Lihtenšteina
+Norvēģija
+
+
+# Citas valstis:
+
+Afganistāna
+Albānija
+Alžīrija
+Andora
+Angola
+Antigva un Barbuda
+Apvienotie Arābu Emirāti
+Argentīna
+Armēnija
+ASV
+Austrālija
+Austrumtimora
+Azerbaidžāna
+Bahamas
+Bahreina
+Baltkrievija
+Bangladeša
+Barbadosa
+Beliza
+Benina (administratīvā)
+Benina (oficiālā)
+Bolīvija (administratīvā)
+Bolīvija (oficiālā)
+Bosnija un Hercegovina
+Botsvana
+Brazīlija
+Bruneja
+Burkinafaso
+Burundi
+Butāna
+Centrālāfrikas Republika
+Čada
+Čīle
+Dienvidāfrika (administratīva)
+Dienvidāfrika (oficiālā)
+Dominika
+Dominikāna
+Džibutija
+Ēģipte
+Ekvadora
+Ekvatoriālā Gvineja
+Eritreja
+Etiopija
+Fidži
+Filipīnas
+Gabona
+Gajāna
+Gambija
+Gana
+Grenāda
+Gruzija
+Gvatemala
+Gvineja
+Gvineja-Bisava
+Haiti
+Hondurasa
+Indija
+Indonēzija
+Irāka
+Irāna
+Izraēla
+Jamaika
+Japāna
+Jaunzēlande
+Jemena
+Jordānija
+Kaboverde
+Kambodža
+Kamerūna
+Kanāda
+Katara
+Kazahstāna
+Kenija
+Kirgizstāna
+Kiribati
+Kolumbija
+Komoras
+Kongo Demokrātiskā Republika
+Kongo Republika
+Korejas Republika
+Korejas TDR
+Kostarika
+Kosova
+Kotdivuāra (administratīvā)
+Kotdivuāra (oficiālā)
+Krievija
+Kuba
+Kuveita
+Ķīna
+Laosa
+Lesoto
+Libāna
+Libērija
+Lībija
+Madagaskara
+Maķedonija
+Malaizija (administratīvā)
+Malaizija (oficiālā)
+Malāvija
+Maldīvija
+Mali
+Maroka
+Māršala Salas
+Maurīcija
+Mauritānija
+Meksika
+Melnkalne
+Mikronēzija
+Mjanma
+Moldova
+Monako
+Mongolija
+Mozambika
+Namībija
+Nauru
+Nepāla
+Nigēra
+Nigērija
+Nikaragva
+Omāna
+Pakistāna
+Palau
+Panama
+Papua-Jaungvineja
+Paragvaja
+Peru
+Ruanda
+Salvadora
+Samoa
+Sanmarīno
+Santome un Prinsipi
+Saūda Arābija
+Seišelas
+Senegāla
+Sentkitsa un Nevisa
+Sentlūsija
+Sentvinsenta un Grenadīnas
+Serbija
+Singapūra
+Sīrija
+Sjerraleone
+Somālija
+Sudāna
+Surinama
+Svazilenda
+Šrilanka (administratīvā)
+Šrilanka (oficiālā)
+Šveice (de facto)
+Tadžikistāna
+Taivāna
+Taizeme
+Tanzānija (administratīvā)
+Tanzānija (oficiālā)
+Togo
+Tonga
+Trinidāda un Tobāgo
+Tunisija
+Turcija
+Turkmenistāna
+Tuvalu
+Uganda
+Ukraina
+Urugvaja
+Uzbekistāna
+Vanuatu
+Vatikāns
+Venecuēla
+Vjetnama
+Zālamana Salas
+Zambija
+Zimbabve
