@@ -57,10 +57,8 @@ Baltkrievija
 Bangladeša
 Barbadosa
 Beliza
-Benina (administratīvā)
-Benina (oficiālā)
-Bolīvija (administratīvā)
-Bolīvija (oficiālā)
+Benina
+Bolīvija
 Bosnija un Hercegovina
 Botsvana
 Brazīlija
@@ -71,8 +69,7 @@ Butāna
 Centrālāfrikas Republika
 Čada
 Čīle
-Dienvidāfrika (administratīva)
-Dienvidāfrika (oficiālā)
+Dienvidāfrika
 Dominika
 Dominikāna
 Džibutija
@@ -121,8 +118,7 @@ Korejas Republika
 Korejas TDR
 Kostarika
 Kosova
-Kotdivuāra (administratīvā)
-Kotdivuāra (oficiālā)
+Kotdivuāra
 Krievija
 Kuba
 Kuveita
@@ -134,8 +130,7 @@ Libērija
 Lībija
 Madagaskara
 Maķedonija
-Malaizija (administratīvā)
-Malaizija (oficiālā)
+Malaizija
 Malāvija
 Maldīvija
 Mali
@@ -183,14 +178,12 @@ Somālija
 Sudāna
 Surinama
 Svazilenda
-Šrilanka (administratīvā)
-Šrilanka (oficiālā)
-Šveice (de facto)
+Šrilanka
+Šveice
 Tadžikistāna
 Taivāna
 Taizeme
-Tanzānija (administratīvā)
-Tanzānija (oficiālā)
+Tanzānija
 Togo
 Tonga
 Trinidāda un Tobāgo
