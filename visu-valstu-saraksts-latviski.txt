@@ -29,7 +29,7 @@ Ungārija
 Vācija
 Zviedrija
 
-# Eiropas Ekonomikas zonas dalībvalstis:
+# Eiropas Ekonomikas zonas dalībvalstis (kas nav ES):
 
 Islande
 Lihtenšteina

@@ -31,7 +31,7 @@
     $es_valstis[] = 'Vācija';
     $es_valstis[] = 'Zviedrija';
     
-    # Eiropas Ekonomikas zonas dalībvalstis:
+    # Eiropas Ekonomikas zonas dalībvalstis (kas nav ES):
     $eek_valstis = array();
     $eek_valstis[] = 'Islande';
     $eek_valstis[] = 'Lihtenšteina';
