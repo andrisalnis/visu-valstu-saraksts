@@ -1,2 +1,2 @@
-# visu-valstu-saraksts
-Visu valstu saraksts (txt un HTML)
+# Visu valstu saraksts latviski (txt un HTML)
+
